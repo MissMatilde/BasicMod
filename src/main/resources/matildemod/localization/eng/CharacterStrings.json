@@ -1,0 +1,13 @@
+{
+  "${modID}:Oracle": {
+    "NAMES": [
+      "The Oracle",
+      "the Oracle"
+    ],
+    "TEXT": [
+      "An oracle's soul bound to an automaton. NL Her magic revolves around fate and the manipulation of destiny.",
+      " NL You seal its fate.",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~Seer,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ]
+  }
+}
